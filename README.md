@@ -1,2 +1,6 @@
 # all-in-one-diet-app
-Flutter app for drinking reminder, intermittent fasting scheduler without any ads
+All in one Flutter app as a personal dieting reminder assistant
+
+- [ ] Drink Reminder
+- [ ] Intermittent Fasting Clock
+- [ ] Calories Library
